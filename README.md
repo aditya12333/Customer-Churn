@@ -9,4 +9,4 @@
 
 ## Algorithm
 
-Random Forest Classifier
+ RandomForestClassifier
