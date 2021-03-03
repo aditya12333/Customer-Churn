@@ -6,3 +6,7 @@
  is gonna get churned so they can proactively go to the customer to provide them better services and turn customers' decisions in the opposite direction.
  
 **The dataset contains 23 columns and  10127 rows.**
+
+## Algorithm
+
+Random Forest Classifier
