@@ -7,6 +7,16 @@
  
 **The dataset contains 23 columns and  10127 rows.**
 
+
+## Proposed Solution
+To recognize whether the customers will get churn or not by using machine learning.
+
+## Dataset
+The dataset has been taken from a Kaggle problem statement.
+
+## Approach
+
+
 ## Algorithm
 
  RandomForestClassifier
