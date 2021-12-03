@@ -15,8 +15,17 @@ To recognize whether the customers will get churn or not by using machine learni
 The dataset has been taken from a Kaggle problem statement.
 
 ## Approach
+* Data Exploration: Exploring the dataset using pandas, numpy etc.
+* Data Cleaning: Cleaning the dataset using pandas and numpy, handling null values.
+* EDA: Performing exploratory data analysis.
+* Model building: Build model using ML algorithms.
+* Pickel File: Select the model with best accuracy and save to a pickle file.
 
+## Tchnology Used
+* Jupyter Notebook
+* For visualization seaborn has been used.
+* scikit has been used for model building.
 
 ## Algorithm
 
- RandomForestClassifier
+ * RandomForestClassifier
