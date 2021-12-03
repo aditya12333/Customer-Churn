@@ -24,7 +24,8 @@ The dataset has been taken from a Kaggle problem statement.
 ## Tchnology Used
 * Jupyter Notebook
 * For visualization seaborn has been used.
-* scikit has been used for model building.
+* scikit has been used for Machine Learning toolkit.
+* Pandas and numpy are used for data manipulation and mathematical computing. 
 
 ## Algorithm
 
